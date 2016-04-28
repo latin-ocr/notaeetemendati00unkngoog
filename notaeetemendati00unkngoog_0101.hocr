@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./notaeetemendati00unkngoog_0101.png"; bbox 0 0 2450 4059; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2431 203 2433 704">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2431 203 2433 704">
+     <span class='ocr_line' id='line_1_1' title="bbox 2431 203 2433 704; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 2431 203 2433 704; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 67 1157 2116 1362">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 67 1157 2116 1362">
+     <span class='ocr_line' id='line_1_2' title="bbox 67 1157 2116 1362; baseline 0.001 -79.031"><span class='ocrx_word' id='word_1_2' title='bbox 67 1157 1090 1362; x_wconf 68' lang='lat' dir='ltr'><strong>{QBERNHARDI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1142 1182 1829 1284; x_wconf 83' lang='lat' dir='ltr'>KOEHLERI</span> <span class='ocrx_word' id='word_1_4' title='bbox 1947 1187 1952 1196; x_wconf 79' lang='grc'>’</span> <span class='ocrx_word' id='word_1_5' title='bbox 2109 1187 2116 1198; x_wconf 79' lang='grc'><em>’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 22 1356 2166 1854">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 22 1356 2166 1848">
+     <span class='ocr_line' id='line_1_3' title="bbox 22 1356 2166 1648; baseline -0.007 -58"><span class='ocrx_word' id='word_1_6' title='bbox 22 1565 39 1590; x_wconf 5' lang='grc' dir='ltr'><strong>ξ,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 224 1356 791 1580; x_wconf 52' lang='grc' dir='ltr'><strong>δὴ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 784 1438 1018 1576; x_wconf 85' lang='grc'><strong>(31</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1062 1433 1542 1640; x_wconf 76' lang='grc' dir='ltr'><strong>ΜΕΝ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2147 1633 2166 1648; x_wconf 13' lang='lat' dir='ltr'>x</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 28 1681 2010 1854; baseline -0.003 -5.674"><span class='ocrx_word' id='word_1_11' title='bbox 28 1691 1831 1854; x_wconf 82' lang='lat' dir='ltr'>EMENDATIONVM</span> <span class='ocrx_word' id='word_1_12' title='bbox 2003 1681 2010 1692; x_wconf 76' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 906 2017 1156 2133">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 906 2017 1156 2133">
+     <span class='ocr_line' id='line_1_5' title="bbox 906 2017 1156 2133; baseline -0.008 0"><span class='ocrx_word' id='word_1_13' title='bbox 906 2017 1156 2133; x_wconf 40' lang='lat' dir='ltr'><strong>1N&#39;‘</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 168 2193 1717 2402">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 136 2193 1717 2402">
+     <span class='ocr_line' id='line_1_6' title="bbox 168 2193 1717 2402; baseline -0.005 -39.162"><span class='ocrx_word' id='word_1_14' title='bbox 168 2395 175 2402; x_wconf 16' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_15' title='bbox 253 2193 1024 2389; x_wconf 53' lang='lat' dir='ltr'><strong>semsp‘ronas</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1088 2243 1717 2362; x_wconf 65' lang='lat' dir='ltr'><strong>ARAmws.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
